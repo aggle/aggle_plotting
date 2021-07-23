@@ -2,12 +2,12 @@ from setuptools import setup
 
 setup(
      # Needed to silence warnings (and to be a worthwhile package)
-    name='AgglePlotting',
+    name='agplot',
     url='https://github.com/jladan/package_demo',
     author='Jonathan Aguilar',
     author_email='jaguilar@stsci.edu',
     # Needed to actually package something
-    packages=['aggleplotting'],
+    packages=['agplot'],
     # Needed for dependencies
     install_requires=['matplotlib'],
     # *strongly* suggested for sharing
