@@ -4,7 +4,6 @@ Use with %matplotlib notebook
 """
 
 import matplotlib.pyplot as plt
-import numpy as np
 import ipywidgets as widgets
 from IPython.display import display,clear_output
 
