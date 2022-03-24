@@ -1,6 +1,10 @@
 # axes
-axes.grid:          True   # display grid or not
+axes.grid: False   # display grid or not
+axes.labelsize: large
+axes.titlesize: large
 
+# figure
+figure.titlesize: x-large
 
 # ticks
 xtick.top:           True
@@ -18,6 +22,7 @@ grid.alpha:     0.5
 
 # images
 image.origin: lower 
+image.cmap: cividis
 
 
 # output
